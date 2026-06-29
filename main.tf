@@ -1,8 +1,8 @@
 # this is the local-branch
 
 
-resource "azurerm_resource_group" "rajesh_rg23424" {
-  name     = "rajesh-rg23424"
+resource "azurerm_resource_group" "rajesh_local-rg" {
+  name     = "rajesh-local"
   location = "Central India"
 
 }
