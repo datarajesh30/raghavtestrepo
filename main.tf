@@ -1,6 +1,6 @@
 # this is the feature-1 branch 
 terraform {
-  required_version = ">= 1.5.0"
+  required_version = ">= 2.5.0"
 
   required_providers {
     azurerm = {
