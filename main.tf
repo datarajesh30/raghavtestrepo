@@ -16,8 +16,8 @@ provider "azurerm" {
   subscription_id = "<YOUR_SUBSCRIPTION_ID>"
 }
 
-resource "azurerm_resource_group" "rajesh_rg" {
-  name     = "rajesh-rg"
+resource "azurerm_resource_group" "rajesh_rg23424" {
+  name     = "rajesh-rg23424"
   location = "Central India"
 
 }
